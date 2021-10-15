@@ -28,7 +28,6 @@ public class Point2D {
     public void translater(int dX, int dY) {
         this.x += dX;
         this.y += dY;
-
     }
 
     public static int getCompteur() {
